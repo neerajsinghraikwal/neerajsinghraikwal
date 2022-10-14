@@ -1,13 +1,10 @@
  ### Hi there, I'm Neeraj Singh 👋  
 
-<a href=" https://neerajsinghraikwal.github.io/my-portfolio/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt=" https://neerajsinghraikwal.github.io/my-portfolio/" />
+<a href="https://neerajsinghraikwal.github.io/my-portfolio/">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="neeraj" />
 </a>
 <a title="nsrneerajsingh2721@gmail.com" href="mailto:nsrneerajsingh2721@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
-</a>
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
 </a>
 
 ---
@@ -30,8 +27,8 @@
     <a href="https://github.com/neerajsinghraikwal">
         <img src="https://komarev.com/ghpvc/?username=neerajsinghraikwal&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
-<!--     <a href="https://github.com/neerajsinghraikwal?tab=followers">
-        <img src="https://img.shields.io/github/followers/neerajsinghraikwalt?label=Followers&style=social" alt="followers-count">
+<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
+        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
     </a> -->
 </p>
  
@@ -78,11 +75,11 @@
 
 
   <a href="https://github.com/neerajsinghraikwal?tab=repositories">
-    <img width="400" height="auto"  alt="Neeraj's github stats" 
+    <img width="400" height="auto"  alt="Arjun's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=neerajsinghraikwal&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsinghraikwal&hide=smalltalk&theme=algolia&layout=compact" alt="neerajsinghraikwal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsinghraikwal&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
 </p>
 
 ---
