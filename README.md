@@ -1,4 +1,5 @@
- ### Hi there, I'm Neeraj Singh 👋  
+ ### Hi there, I'm Neeraj Singh 👋 
+ Aspiring MERN Developer
 
 <a href="https://neerajsingh.vercel.app/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="neeraj" />
