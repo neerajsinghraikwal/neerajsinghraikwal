@@ -1,6 +1,6 @@
  ### Hi there, I'm Neeraj Singh 👋  
 
-<a href="https://neerajsinghraikwal.github.io/my-portfolio/">
+<a href="https://neerajsingh.vercel.app/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="neeraj" />
 </a>
 <a title="nsrneerajsingh2721@gmail.com" href="mailto:nsrneerajsingh2721@gmail.com">
