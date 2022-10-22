@@ -10,11 +10,11 @@
 
 ---
 
-## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
+## I'm an aspiring MERN Developer and Life Long Learner!
+- 🌱 I’m currently learning MERN Stack at Masai School.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Npm
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Npm, Express, MongoDB
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
