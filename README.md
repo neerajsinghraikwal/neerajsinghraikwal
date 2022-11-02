@@ -1,88 +1,92 @@
- ### Hi there, I'm Neeraj Singh 👋 
- Aspiring MERN Developer
+<h1 align="left">Hi 👋, I'm Neeraj Singh</h1>
+<img align="right" width="370px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" 
+alt="err" height="250px" />
 
-<a href="https://neerajsingh.vercel.app/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="neeraj" />
+<h3 align="left">I am a bird without wings trying to figure out things!!!</h3>
+
+<p align="left"> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neerajsinghraikwal&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant" /> 
+&nbsp;</p>
+
+- 🌱 I’m currently learning **DSA and Web Devolopment.**
+
+- 🏠 From Uttarakhand , India
+
+- 👨‍💻 You can also check out my portfolio at [https://neerajsingh.vercel.app/](https://neerajsingh.vercel.app/)
+
+- 📫 How to reach me *nsrneerajsingh2721@gmail.com*
+
+- ⚡ Fun fact **&nbsp;Moody , love to design website & play cricket**
+
+- 💯  **It's all about Growth**
+
+<hr width="50%"/>
+
+<h3 width="100px" align="left">Frontend Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend Skills</h3>
+<p width="100px" align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img width="90px" height="28px"  src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black" alt="javascript" /> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> 
 </a>
-<a title="nsrneerajsingh2721@gmail.com" href="mailto:nsrneerajsingh2721@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
-</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img width="80px" height="28px"  src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/docs/" target="_blank"> <img width="90px" height="28px" alt="react js" src="https://img.shields.io/badge/Mongo db-%23563D7C.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+<a href="https://nodejs.org/en/docs/" target="_blank"> 
+<img width="70px" height="28px"  src="https://img.shields.io/badge/Node js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black" alt="node js" /> 
+</a> 
 
----
-
-## I'm an aspiring MERN Developer and Life Long Learner!
-- 🌱 I’m currently learning MERN Stack at Masai School.
-- 🌏 Looking to solve real-world problems.
-- 💻 I'm passionate about making creative websites.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Npm, Express, MongoDB
- 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
----
-
-
- 
-<!----------------------------------- Profile View Section ------------------------------------>
+</p> 
 
 <p align="left">
-    <a href="https://github.com/neerajsinghraikwal">
-        <img src="https://komarev.com/ghpvc/?username=neerajsinghraikwal&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
-    </a>
-<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
-    </a> -->
+<a href="https://reactjs.org/" target="_blank"> <img width="90px" height="28px" alt="react js" src="https://img.shields.io/badge/reactjs-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img width="80px" height="28px" src="https://img.shields.io/badge/Redux-1572B6?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>
+<a href="https://chakra-ui.com/" target="_blank"> <img width="80px" height="28px"src="https://img.shields.io/badge/Chakra UI-E34F26?style=for-the-badge&logo=chakra ui&logoColor=white" alt="chakra ui" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/express-js/" target="_blank"> <img width="90px" height="28px" src="https://img.shields.io/badge/Express Js-E34F26?style=for-the-badge&logo=express&logoColor=white" alt="express" /> 
+</a>
+<a href="https://git-scm.com/" target="_blank"> <img width="70px" height="28px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 </p>
- 
-
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-<br>
-
-
----
-
-### Desktop Environment:
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
-
----
-
-
-<p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsinghraikwal&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-  <a href="https://github.com/neerajsinghraikwal?tab=repositories">
-    <img width="400" height="auto"  alt="Arjun's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=neerajsinghraikwal&show_icons=true&theme=algolia&count_private=true" />
-  </a>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsinghraikwal&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
+  <hr width="50%"/>
+<!-- Most Popular Repository -->
+<div style="display-flex" align="left">
+  <h3>Some of my cool repositories (Click on the repos to preview live )</h3>
+ <a href="https://react-project-beige.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5" /></a>
+ <a href="https://smooth-book-cricket-com.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5" /></a>
+<a href="https://reliable-pithivier-1aca9a.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Search_movie&theme=dark&langs_count=5" /></a>  
+ <a href="https://nnishks.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Nnishks.github.io&theme=dark&langs_count=5" /></a>
+     
+  <h3>💻 Some Stats</h3>
+  <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=neerajsinghraikwal&theme=dark" alt="Neeraj singh" />
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=neerajsinghraikwal&show_icons=true&locale=en&theme=dark" alt="Neeraj" />
+</div>
+                                                                                                                                        
+  <hr width="90%"/>  
+   <br/>
+   <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Neeraj singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=neerajsinghraikwal&theme=react-dark&hide_border=true" /></a>
+                 
+<!-- Funny Random Joke -->
+
+<div align="center">
+                   
+  <h2>Here's a random developer joke </h2>
+                   
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+</div>
+                                                                            
+<p align="center">
+  <code>Refresh the page for a new joke</code>
 </p>
 
----
+<div align="center">
+ <h3>Connect with me 🙋🏻</h3>
+<a href="https://www.linkedin.com/in/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+                                                     
+</div>
 
- 
+![](https://hit.yhype.me/github/profile?user_id=51595564)
+
+
+
