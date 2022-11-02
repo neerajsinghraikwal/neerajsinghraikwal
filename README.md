@@ -50,11 +50,11 @@ alt="err" height="250px" />
   <hr width="50%"/>
 <!-- Most Popular Repository -->
 <div style="display-flex" align="left">
-  <h3>Some of my cool repositories (Click on the repos to preview live )</h3>
- <a href="https://react-project-beige.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=puzzled-flame-6976&theme=dark&langs_count=5" /></a>
- <a href="https://smooth-book-cricket-com.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=smooth-book-4341&theme=dark&langs_count=5" /></a>
-<a href="https://reliable-pithivier-1aca9a.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Search_movie&theme=dark&langs_count=5" /></a>  
- <a href="https://nnishks.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nnishks&repo=Nnishks.github.io&theme=dark&langs_count=5" /></a>
+<!--   <h3>Some of my cool repositories (Click on the repos to preview live )</h3>
+ <a href="https://react-project-beige.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=Zappos-clone&theme=dark&langs_count=5" /></a>
+ <a href="https://smooth-book-cricket-com.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=smooth-book-4341&theme=dark&langs_count=5" /></a>
+<a href="https://reliable-pithivier-1aca9a.netlify.app/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=Search_movie&theme=dark&langs_count=5" /></a>  
+ <a href="https://nnishks.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=Nnishks.github.io&theme=dark&langs_count=5" /></a> -->
      
   <h3>💻 Some Stats</h3>
   <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com?user=neerajsinghraikwal&theme=dark" alt="Neeraj singh" />
@@ -65,26 +65,7 @@ alt="err" height="250px" />
    <br/>
    <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Neeraj singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=neerajsinghraikwal&theme=react-dark&hide_border=true" /></a>
                  
-<!-- Funny Random Joke -->
 
-<div align="center">
-                   
-  <h2>Here's a random developer joke </h2>
-                   
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-</div>
-                                                                            
-<p align="center">
-  <code>Refresh the page for a new joke</code>
-</p>
-
-<div align="center">
- <h3>Connect with me 🙋🏻</h3>
-<a href="https://www.linkedin.com/in/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin">
-</a>
-                                                     
-</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=51595564)
 
