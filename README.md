@@ -11,7 +11,7 @@ alt="err" height="250px" />
 
 - 🏠 From Uttarakhand , India
 
-- 👨‍💻 You can also check out my portfolio at [https://neerajsingh.vercel.app/](https://neerajsingh.vercel.app/)
+- 👨‍💻 You can also check out my portfolio at [https://neerajsinghraikwal.github.io/](https://neerajsinghraikwal.github.io/)
 
 - 📫 How to reach me *nsrneerajsingh2721@gmail.com*
 
