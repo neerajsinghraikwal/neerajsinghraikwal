@@ -69,7 +69,7 @@ alt="err" height="250px" />
  <a href="https://github.com/neerajsinghraikwal/Glamour"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=Glamour&theme=dark&langs_count=5" /></a>
  <a href="https://github.com/neerajsinghraikwal/awesome-volleyball-5374"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=awesome-volleyball-5374&theme=dark&langs_count=5" /></a>
 <a href="https://github.com/neerajsinghraikwal/Meanbuy-Clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=Meanbuy-Clone&theme=dark&langs_count=5" /></a>  
- <a href="[https://nnishks.github.io/](https://github.com/neerajsinghraikwal/ZoomCar-Clone)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=ZoomCar-Clone&theme=dark&langs_count=5" /></a>
+ <a href="https://github.com/neerajsinghraikwal/ZoomCar-Clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=ZoomCar-Clone&theme=dark&langs_count=5" /></a>
    <a href="https://github.com/neerajsinghraikwal/neerajsinghraikwal.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsinghraikwal&repo=neerajsinghraikwal.github.io&theme=dark&langs_count=5" /></a>
      
   <h3>💻 Some Stats</h3>
