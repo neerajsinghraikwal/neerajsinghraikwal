@@ -2,22 +2,37 @@
 <img align="right" width="370px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" 
 alt="err" height="250px" />
 
-<h3 align="left">I am a bird without wings trying to figure out things!!!</h3>
+<a href="https://neerajsinghraikwal.github.io/">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://neerajsinghraikwal.github.io/" />
+</a>
+<a title="nsrneerajsingh2721@gmail.com" href="mailto:nsrneerajsingh2721@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nsrneerajsingh2721@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/neeraj-singh-b44906261/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/neeraj-singh-b44906261/" />
+</a>
 
-<p align="left"> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neerajsinghraikwal&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant" /> 
-&nbsp;</p>
+<h3 align="left">Never let a computer know you're in a hurry</h3>
 
 - 🌱 I’m currently learning **DSA and Web Devolopment.**
 
 - 🏠 From Uttarakhand , India
 
-- 👨‍💻 You can also check out my portfolio at [https://neerajsinghraikwal.github.io/](https://neerajsinghraikwal.github.io/)
+- 💻 I'm passionate about making creative websites.
 
-- 📫 How to reach me *nsrneerajsingh2721@gmail.com*
+- 🌏 Looking to solve real-world problems.
 
-- ⚡ Fun fact **&nbsp;Moody , love to design website & play cricket**
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
 
 - 💯  **It's all about Growth**
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+<p align="left"> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neerajsinghraikwal&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj" /> 
+&nbsp;</p>
+
+ 
 
 <hr width="50%"/>
 
